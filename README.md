@@ -22,15 +22,11 @@ Computer Science · Android & Web
   <img src="https://img.shields.io/badge/Anthropic-Claude-c0a5f5?style=flat-square&labelColor=161b22" alt="Anthropic Claude" />
 </p>
 
-### On GitHub
+### Languages
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Rinhaze&show_icons=true&hide_rank=true&title_color=c0a5f5&icon_color=c0a5f5&text_color=e6edf3&bg_color=161b22&border_color=30363d" />
-  <img width="49%" alt="Rinhaze's GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=Rinhaze&show_icons=true&hide_rank=true&title_color=7654c4&icon_color=7654c4&text_color=1f2328&bg_color=f6f8fa&border_color=d1d9e0" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Rinhaze&layout=compact&title_color=c0a5f5&text_color=e6edf3&bg_color=161b22&border_color=30363d" />
-  <img width="49%" alt="Languages used in Rinhaze's public repositories" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rinhaze&layout=compact&title_color=7654c4&text_color=1f2328&bg_color=f6f8fa&border_color=d1d9e0" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Rinhaze&layout=compact&hide_title=true&card_width=420&title_color=c0a5f5&text_color=e6edf3&bg_color=161b22&border_color=30363d" />
+  <img width="420" alt="Languages used in Rinhaze's public repositories" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rinhaze&layout=compact&hide_title=true&card_width=420&title_color=7654c4&text_color=1f2328&bg_color=f6f8fa&border_color=d1d9e0" />
 </picture>
 
 ### Contribution Snake
