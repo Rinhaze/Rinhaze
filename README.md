@@ -1,6 +1,6 @@
 <h1>Rinhaze.</h1>
 
-Computer Science · Android & Web
+Android 앱과 웹을 만듭니다.
 
 <p>
   <img src="https://img.shields.io/badge/CS_STUDENT-c0a5f5?style=flat-square&labelColor=161b22" alt="CS Student" />
