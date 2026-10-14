@@ -36,8 +36,8 @@ Computer Science · Android & Web
 ### Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rinhaze/Rinhaze/main/dist/snake-dark.svg" />
-  <img width="100%" alt="Rinhaze's contribution snake" src="https://raw.githubusercontent.com/Rinhaze/Rinhaze/main/dist/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rinhaze/Rinhaze/main/dist/snake-dark.svg?v=1" />
+  <img width="100%" alt="Rinhaze's contribution snake" src="https://raw.githubusercontent.com/Rinhaze/Rinhaze/main/dist/snake.svg?v=1" />
 </picture>
 
 ---
